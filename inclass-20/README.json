@@ -1,4 +1,4 @@
 {
 "netid": "sof1",
-"backend": "https://backendsof1.herokuapp.com/"
+"backend": "mongodb://sof1:pray8888@ds157667.mlab.com:57667/sof1db"
 }
